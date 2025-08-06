@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#exibicao-palavra{
+    font-size: 3em;
+    margin-bottom: 30px;
+}
+
+#botao-reiniciar{
+    background-color: rgb(204, 0, 0);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#botao-reiniciar:hover{
+    background-color: rgb(107, 35, 35);
+}
